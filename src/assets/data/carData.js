@@ -20,7 +20,7 @@ const carData = [
     speed: "20kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
-    automatic: "Automatic",
+    automatic: "Otomatik Kazım",
     description:
       " Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam. Dolor labore lorem no accusam sit justo sadipscing labore invidunt voluptua, amet duo et gubergren vero gubergren dolor. At diam.",
   },

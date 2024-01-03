@@ -7,17 +7,17 @@ import "../../styles/footer.css";
 const quickLinks = [
   {
     path: "/about",
-    display: "About",
+    display: "Hakkımızda",
   },
 
   {
     path: "#",
-    display: "Privacy Policy",
+    display: "Gizlilik",
   },
 
   {
     path: "/cars",
-    display: "Car Listing",
+    display: "Araçlar Listeleniyor",
   },
   {
     path: "/blogs",
@@ -26,7 +26,7 @@ const quickLinks = [
 
   {
     path: "/contact",
-    display: "Contact",
+    display: "İletişim",
   },
 ];
 

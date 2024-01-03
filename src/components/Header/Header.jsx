@@ -7,15 +7,15 @@ import "../../styles/header.css";
 const navLinks = [
   {
     path: "/home",
-    display: "Home",
+    display: "Ana Sayfa",
   },
   {
     path: "/about",
-    display: "About",
+    display: "Hakkımızda",
   },
   {
     path: "/cars",
-    display: "Cars",
+    display: "Araçlar",
   },
 
   {
@@ -24,7 +24,7 @@ const navLinks = [
   },
   {
     path: "/contact",
-    display: "Contact",
+    display: "İletişim",
   },
 ];
 
